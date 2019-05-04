@@ -1,4 +1,4 @@
-# Python Data Engineering/Machine Learning 
+# Python Data Analysis  & Machine Learning 
 This project was aimed to dabble in the realm of Python's ML and data visualization libaries such as SKLearn's SVM classifier, Scipy and Pandas data wrangling, and Matplotlib's data visualization capabilities.
 
 It contains two parts:
